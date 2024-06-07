@@ -1,4 +1,4 @@
-Application Health Checker
+# Application Health Checker
 This Python script monitors the health of a application by periodically making HTTP requests to a specified URL and logging the results.
 
 Features
